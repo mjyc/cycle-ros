@@ -17,7 +17,7 @@
     "babelify": "^8.0.0",
     "browserify": "^16.2.2",
     "concurrently": "^4.0.1",
-    "live-server": "^1.2.0",
+    "live-server": "^1.2.1",
     "mkdirp": "~0.5.0",
     "watchify": "^3.11.0"
   },
